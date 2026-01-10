@@ -27,7 +27,5 @@ include:
   #   shield: settings_reset
   - board: nrfmicro/nrf52840
     shield: lily58_left
-    snippet: nrf52840-nosd
   - board: nrfmicro/nrf52840
     shield: lily58_right
-    snippet: nrf52840-nosd
